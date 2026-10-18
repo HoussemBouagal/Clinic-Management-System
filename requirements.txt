@@ -1,0 +1,2 @@
+# Tkinter et sqlite3 sont inclus avec la plupart des installations Python Windows.
+# Aucune dépendance externe n'est requise pour la version de démarrage.
